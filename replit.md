@@ -8,7 +8,10 @@ The project features a modern, professional design with comprehensive SEO optimi
 - Enhanced professional design with gradient backgrounds and modern animations
 - Added glassmorphism navigation with backdrop blur effects
 - Implemented featured blog section on homepage showcasing top 3 articles
-- All 20 blog articles now display with proper high-quality images
+- All blog articles now display with proper high-quality Unsplash images
+- Removed 3 problematic blog articles (original #8, #12, #20) with broken images
+- Renumbered remaining articles for clean sequence (now 17 total articles)
+- Fixed legal pages formatting with improved CSS styling and mobile responsiveness
 - Improved mobile responsiveness and user experience
 - Added smooth hover effects and professional typography
 
