@@ -1,0 +1,66 @@
+Create a complete, SEO-optimized, responsive website in HTML, CSS, and JavaScript for an image conversion tool named “JPGConverter.”
+
+Core Features:
+1. Homepage:
+   - Drag-and-drop image upload for PNG, WEBP, HEIC, GIF, BMP, TIFF → JPG (client-side using Canvas API).
+   - Clear H1 and H2 headings with keywords: “Convert Images to JPG Online – Free & Fast.”
+   - Short intro paragraph (150–200 words) explaining the tool with keyword variations for SEO like “online JPG converter,” “PNG to JPG,” “convert to JPEG.”
+   - Call-to-action buttons: “Upload Your Image” and “Learn More.”
+
+2. Navigation Bar:
+   - Links: Home, About, Blog, Contact, Privacy Policy, Terms of Service, Disclaimer.
+
+3. About Page:
+   - 300+ words of original, human-like content explaining the purpose, mission, and benefits of JPGConverter.
+   - Include keywords like “online JPG converter,” “free JPEG conversion,” “PNG to JPG tool.”
+
+4. Blog Section:
+   - Create 20 SEO-friendly articles (500–600 words each) targeting long-tail keywords like:
+     1. How to Convert PNG to JPG Without Losing Quality
+     2. JPG vs PNG: Which Format Should You Choose?
+     3. Free Online JPG Conversion Tools Compared
+     4. How to Compress JPG Images Without Quality Loss
+     5. What is HEIC and How to Convert It to JPG
+     6. Step-by-Step Guide to Batch Image Conversion
+     7. Best Practices for Web-Friendly JPG Files
+     8. Image Formats Explained: JPG, PNG, WEBP, GIF
+     9. Why JPG is the Best Format for Photographs
+     10. Mobile-Friendly JPG Conversion Tips
+     11. Understanding JPEG Compression: Pros & Cons
+     12. How to Convert RAW Images to JPG
+     13. JPG for Social Media: Optimal Sizes & Quality
+     14. Why Photographers Still Use JPG in 2025
+     15. JPG vs WEBP: Which Should You Use?
+     16. Converting Animated GIFs to JPG: What You Need to Know
+     17. How to Reduce JPG File Size for Email Attachments
+     18. Beginner’s Guide to Digital Image Formats
+     19. The History of the JPG File Format
+     20. Future of JPG: Is JPEG XL Taking Over?
+   - Each blog post should:
+     - Be 100% unique and human-like
+     - Use headings (H2, H3), bullet points, and internal links
+     - Have meta titles (max 60 chars) and meta descriptions (max 160 chars)
+     - Include keyword variations naturally
+
+5. Contact Page:
+   - Simple contact form with Formspree integration (name, email, message).
+   - Include business email in plain text for trust.
+
+6. Legal Pages:
+   - Privacy Policy, Terms of Service, Disclaimer — 100% unique wording, AdSense-compliant, and written in plain language.
+
+7. Technical & SEO:
+   - Fully mobile responsive (dark + light mode).
+   - Fast-loading design (minify CSS/JS, compress images).
+   - SEO best practices: proper title tags, meta tags, alt text for images, schema markup (WebSite, Article).
+   - Open Graph & Twitter Card meta tags for social sharing.
+   - Sitemap.xml & robots.txt auto-generated.
+   - Google Analytics placeholder script (commented for later use).
+   - Internal linking between blog posts and relevant pages.
+
+8. Footer:
+   - Copyright notice, quick links, social media icons.
+
+Important:
+- Do not use placeholder lorem ipsum — all text must be unique and natural.
+- Avoid any policy-violating content; keep it professional and safe for all audiences.
