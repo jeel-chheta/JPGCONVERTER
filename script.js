@@ -106,7 +106,7 @@ class NavigationManager {
         this.activePage = page;
 
         // Handle blog article clicks
-        if (page === 'blog') {
+        if (page === 'blog' || page === 'home') {
             this.bindBlogEvents();
         }
     }
@@ -158,7 +158,7 @@ class NavigationManager {
     }
 
     bindBlogEvents() {
-        document.querySelectorAll('.blog-card').forEach(card => {
+        document.querySelectorAll('.blog-card, .featured-blog-card').forEach(card => {
             card.addEventListener('click', () => {
                 const articleId = card.dataset.article;
                 this.showBlogArticle(articleId);
