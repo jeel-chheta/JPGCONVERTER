@@ -1,0 +1,31 @@
+{
+  "name": "jpgconverter",
+  "version": "1.0.0",
+  "description": "Professional online JPG converter - Convert PNG, WEBP, HEIC, GIF, BMP, TIFF to JPG format",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server . -p 3000 -c-1",
+    "dev": "npx http-server . -p 3000 -c-1 -o",
+    "build": "echo 'Static site - no build required'",
+    "deploy": "echo 'Deploy using your preferred platform'"
+  },
+  "keywords": [
+    "jpg-converter",
+    "image-converter",
+    "png-to-jpg",
+    "webp-to-jpg",
+    "heic-to-jpg",
+    "online-converter",
+    "client-side-conversion"
+  ],
+  "author": "JPGConverter",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/jpgconverter.git"
+  },
+  "homepage": "https://JPGConverter.techxbyte.com"
+}
