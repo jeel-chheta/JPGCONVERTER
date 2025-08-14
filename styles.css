@@ -195,6 +195,31 @@ img {
     font-size: var(--font-size-2xl);
 }
 
+/* Logo Icon Styling */
+.logo-icon {
+    transition: var(--transition);
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1));
+    display: block;
+    object-fit: contain;
+}
+
+.nav-logo:hover .logo-icon {
+    transform: scale(1.1) rotate(-2deg);
+    filter: drop-shadow(0 4px 8px rgba(59, 130, 246, 0.3));
+}
+
+.footer-logo .logo-icon {
+    transition: var(--transition);
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1));
+    display: block;
+    object-fit: contain;
+}
+
+.footer-logo:hover .logo-icon {
+    transform: scale(1.1) rotate(-2deg);
+    filter: drop-shadow(0 4px 8px rgba(59, 130, 246, 0.3));
+}
+
 .nav-menu {
     display: flex;
     gap: var(--spacing-lg);

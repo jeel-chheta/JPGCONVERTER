@@ -1,0 +1,33 @@
+{
+    "name": "JPGConverter - Free Online Image Converter",
+    "short_name": "JPGConverter",
+    "description": "Convert PNG, WEBP, HEIC, GIF, BMP, TIFF to JPG online for free. Fast, secure client-side image conversion.",
+    "icons": [
+        {
+            "src": "logo.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "favicon-16x16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#3B82F6",
+    "background_color": "#ffffff",
+    "categories": ["utilities", "productivity", "photo"]
+}

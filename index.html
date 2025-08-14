@@ -8,19 +8,33 @@
     <title>Convert Images to JPG Online – Free & Fast | JPGConverter</title>
     <meta name="description" content="Convert PNG, WEBP, HEIC, GIF, BMP, TIFF to JPG online for free. Fast, secure client-side image conversion with no upload required.">
     <meta name="keywords" content="JPG converter, PNG to JPG, image converter, JPEG conversion, online image converter, free image conversion">
-    
+
+    <!-- Favicon and App Icons -->
+    <link rel="icon" type="image/svg+xml" href="logo.svg">
+    <link rel="icon" type="image/png" sizes="32x32" href="logo.svg">
+    <link rel="icon" type="image/png" sizes="16x16" href="logo.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="logo.svg">
+    <link rel="shortcut icon" href="logo.svg">
+    <link rel="manifest" href="site.webmanifest">
+    <meta name="theme-color" content="#3B82F6">
+    <meta name="msapplication-TileColor" content="#3B82F6">
+    <meta name="msapplication-config" content="browserconfig.xml">
+
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Convert Images to JPG Online – Free & Fast | JPGConverter">
     <meta property="og:description" content="Convert PNG, WEBP, HEIC, GIF, BMP, TIFF to JPG online for free. Fast, secure client-side image conversion with no upload required.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://JPGConverter.techxbyte.com">
-    <meta property="og:image" content="https://pixabay.com/get/gfec0881ebaf218228920629b6cd151d714c7fed189fa6d908d750e29ff12587375e67a8fb5f339ce5e0481b643666cdb6342f9e07a3f76cd2f4bdd6ad89a3248_1280.jpg">
+    <meta property="og:image" content="logo.svg">
+    <meta property="og:image:type" content="image/svg+xml">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Convert Images to JPG Online – Free & Fast">
     <meta name="twitter:description" content="Convert PNG, WEBP, HEIC, GIF, BMP, TIFF to JPG online for free. Fast, secure client-side image conversion.">
-    <meta name="twitter:image" content="https://pixabay.com/get/gfec0881ebaf218228920629b6cd151d714c7fed189fa6d908d750e29ff12587375e67a8fb5f339ce5e0481b643666cdb6342f9e07a3f76cd2f4bdd6ad89a3248_1280.jpg">
+    <meta name="twitter:image" content="logo.svg">
     
     <!-- Schema Markup -->
     <script type="application/ld+json">
@@ -46,6 +60,9 @@
     
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Preload favicon for faster loading -->
+    <link rel="preload" href="logo.svg" as="image" type="image/svg+xml">
 </head>
 <body>
     <!-- Theme Toggle Button -->
@@ -57,7 +74,7 @@
     <nav class="navbar">
         <div class="nav-container">
             <div class="nav-logo">
-                <i class="fas fa-image"></i>
+                <img src="logo.svg" alt="JPGConverter Logo" class="logo-icon" width="32" height="32">
                 <span>JPGConverter</span>
             </div>
             <div class="nav-menu" id="nav-menu">
@@ -861,7 +878,7 @@
             <div class="footer-content">
                 <div class="footer-section">
                     <div class="footer-logo">
-                        <i class="fas fa-image"></i>
+                        <img src="logo.svg" alt="JPGConverter Logo" class="logo-icon" width="28" height="28">
                         <span>JPGConverter</span>
                     </div>
                     <p>Professional online image conversion made simple, secure, and free.</p>
