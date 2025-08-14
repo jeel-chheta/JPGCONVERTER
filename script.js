@@ -175,7 +175,21 @@ class NavigationManager {
             3: "Free Online JPG Conversion Tools Compared",
             4: "How to Compress JPG Images Without Quality Loss",
             5: "What is HEIC and How to Convert It to JPG",
-            6: "Step-by-Step Guide to Batch Image Conversion"
+            6: "Step-by-Step Guide to Batch Image Conversion",
+            7: "Best Practices for Web-Friendly JPG Files",
+            8: "Why JPG is the Best Format for Photographs",
+            9: "Mobile-Friendly JPG Conversion Tips",
+            10: "Understanding JPEG Compression: Pros & Cons",
+            11: "JPG for Social Media: Optimal Sizes & Quality",
+            12: "Why Photographers Still Use JPG in 2025",
+            13: "JPG vs WEBP: Which Should You Use?",
+            14: "Converting Animated GIFs to JPG: What You Need to Know",
+            15: "How to Reduce JPG File Size for Email Attachments",
+            16: "Beginner's Guide to Digital Image Formats",
+            17: "The History of the JPG File Format",
+            18: "Understanding JPG Metadata and EXIF Data",
+            19: "JPG Color Profiles: sRGB vs Adobe RGB",
+            20: "The Future of Image Formats: Beyond JPG"
         };
         
         const title = articles[articleId];
